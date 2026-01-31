@@ -1,6 +1,6 @@
 ## 👋 Hi There! I'm Kashish  
 
-### 🚀 Passionate Backend Developer from India  
+### Passionate Backend Developer from India 🚀
 **Java • Spring Boot • MySQL • PHP**
 
 - 🔭 Currently working with **Java & PHP**
